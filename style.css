@@ -1,0 +1,63 @@
+body {
+  background: linear-gradient(130deg, #628e75 0.66%, #1a4855 83.32%);
+  box-shadow: 26px 24px 90px 0 rgba(31, 26, 51, 0.13);
+}
+
+.menu {
+  width: 100%;
+  height: 48.114px;
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+}
+
+.logos {
+  width: 300px;
+  padding: auto;
+  stroke-width: 1.5px;
+  stroke: #f9f9f9;
+}
+
+p {
+  color: #f9f9f9;
+  font-family: "Poppins";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  padding-left: 165px;
+}
+
+h1 {
+    color: #F9F9F9;
+    font-family: Poppins;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 109%; /* 74.12px */
+}
+
+.CHIHIRO {
+  color: #f9f9f9;
+  font-family: "Poppins";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 28.8px */
+  padding-left: 165px;
+  font-weight: 200;
+  margin: 0;padding: 0;
+}
+
+.esquerda{
+  width: 445px;
+  padding: 165px;
+}
+
+.direita{
+    justify-content: center;
+    padding-left: 900px;
+    
+}
